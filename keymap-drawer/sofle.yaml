@@ -87,7 +87,7 @@ layers:
   - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - HOME
-  - PG DOWN
+  - PG DN
   - PG UP
   - END
   - {t: '-', s: _}
